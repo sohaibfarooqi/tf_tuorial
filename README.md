@@ -11,3 +11,5 @@ variety of neural network architectures
  - [Classification](https://nbviewer.jupyter.org/github/sohaibfarooqi/tf_tuorial/blob/master/basic_nntes.ipynb#Classification)
  - [Optimizers](https://nbviewer.jupyter.org/github/sohaibfarooqi/tf_tuorial/blob/master/basic_nntes.ipynb#Optimizers)
  - [Datasets](https://nbviewer.jupyter.org/github/sohaibfarooqi/tf_tuorial/blob/master/basic_nntes.ipynb#Dataset)
+ ### Advance Neural Nets
+  - [CNN](https://github.com/sohaibfarooqi/tf_tuorial/blob/master/cnn.ipynb)
