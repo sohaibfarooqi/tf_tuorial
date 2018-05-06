@@ -13,3 +13,6 @@ variety of neural network architectures
  - [Datasets](https://nbviewer.jupyter.org/github/sohaibfarooqi/tf_tuorial/blob/master/basic_nntes.ipynb#Dataset)
  ### Advance Neural Nets
   - [CNN](https://github.com/sohaibfarooqi/tf_tuorial/blob/master/cnn.ipynb)
+  - [RNN-Regression](https://github.com/sohaibfarooqi/tf_tuorial/blob/master/rnn_regression.ipynb)
+  - [RNN-Classifier](https://github.com/sohaibfarooqi/tf_tuorial/blob/master/rnn_classifier.ipynb)
+  - [Autoencoder](https://github.com/sohaibfarooqi/tf_tuorial/blob/master/autoencoder.ipynb)
